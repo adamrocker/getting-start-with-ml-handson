@@ -1,0 +1,13 @@
+{
+  "name": "getting-start-with-ml-handson",
+  "version": "1.0.0",
+  "description": "The source code of the hands-on about Getting Start With ML",
+  "main": "index.html",
+  "repository": "https://github.com/adamrocker/getting-start-with-ml-handson.git",
+  "author": "adam <adamrocker@gmail.com>",
+  "license": "CC0",
+  "private": false,
+  "devDependencies": {
+    "http-server": "^14.0.0"
+  }
+}
